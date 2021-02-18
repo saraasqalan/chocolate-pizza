@@ -1,0 +1,101 @@
+body {
+    width: 80%;
+    font-family :'Courier New', Courier, monospace;
+    margin: 0 auto;
+  }
+  
+  header div {
+    display: inline-block;
+    margin-top: 2px;
+    
+  }
+  
+  h4 {
+    font-family: 'Yellowtail', cursive;
+    font-size: 50px;
+  }
+  
+  h5 ,h2 {
+    font-family: 'VT323'; 
+    color: grey;
+    font-size: 13px;
+    margin-left: 7px;
+  
+  }
+  
+  header ul {
+  
+    float: right;
+    margin-top: 40px;
+    margin-left: 10px;
+  
+  }
+  
+  header ul li {
+    display: inline-block;
+  
+  }
+  
+  
+  
+  h1 {
+    font-family: 'Francois One', sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  
+  #cake {
+    width: 100%;
+  }
+  
+  
+  .col1 {
+  
+    width: 300px;
+    float: left;
+    margin-left: 130px;
+    background-color: rgb(225, 243, 142);
+
+  }
+  .col2{
+  
+    width: 300px;
+    float: right;
+    margin-right: 130px;
+    background-color:rgb(225, 243, 142);
+
+  }
+  
+  
+  p {
+    text-indent: 20px;
+    margin-top: 20px;
+  
+  }
+  footer{
+    display: inline-block;
+    clear: both;
+    padding: 20px;
+    
+    text-align: center;
+      
+  }
+  footer div li {
+    float:left;
+  }
+
+  .button{
+     background-color:#ae1402;
+      color: white;
+      border: 2px solid;
+      float: right;
+      }
+      .name{
+          font-weight: bold;
+      }
+  .slogo{
+
+    margin: 100px;
+
+  }
+  
